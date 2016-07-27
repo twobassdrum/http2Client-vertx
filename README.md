@@ -2,7 +2,7 @@
 
 http2 client example using vertx
 
-response to browser with backend responses from http2 rest API
+respond to browser with backend responses from http2 rest API
 
 clone git
 
@@ -12,4 +12,4 @@ compile and execute
 
 `./run.sh`
 
-user browser to hit `http://localhost/8080/`
+use browser to hit `http://localhost/8080/`
